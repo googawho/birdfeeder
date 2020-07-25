@@ -1,7 +1,7 @@
 # Coral Smart Birdfeeder
 A smart birdfeeder that uses the Coral Enterprise Board + Camera module,
 and identifies the birds that use the feeder. It also implements a deterrent
-for any visiting squirrels.
+for any visiting squirrels (this feature has been commented out in this version).
 
 ## License
 Copyright 2019 Google LLC
